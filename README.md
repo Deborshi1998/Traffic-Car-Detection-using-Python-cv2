@@ -1,0 +1,3 @@
+# Traffic-Car-Detection-using-Python-cv2
+download the Haarcascade_car.xml file ...
+provide the full path of the file in the cv2.CascadeClassifier()
